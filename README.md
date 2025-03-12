@@ -1,4 +1,4 @@
-ross Validation for Robust SVM models by Gaussian assumption  
+Cross Validation for Robust SVM models by Gaussian assumption  
 ==============================================================
 
 Overview
